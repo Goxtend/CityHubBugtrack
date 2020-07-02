@@ -3,7 +3,7 @@ name: Bug report
 about: Erstelle einen Bug report um CityHub zu verbessern
 title: "[BUG]"
 labels: bug
-assignees: Goxtend
+assignees: Goxtend, Microhub20
 
 ---
 
